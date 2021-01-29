@@ -1,0 +1,6 @@
+C:\Dev\Training\RPG\SuperAdventure\Engine\bin\Debug\Engine.dll
+C:\Dev\Training\RPG\SuperAdventure\Engine\bin\Debug\Engine.pdb
+C:\Dev\Training\RPG\SuperAdventure\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Dev\Training\RPG\SuperAdventure\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Dev\Training\RPG\SuperAdventure\Engine\obj\Debug\Engine.dll
+C:\Dev\Training\RPG\SuperAdventure\Engine\obj\Debug\Engine.pdb
